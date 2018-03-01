@@ -1,4 +1,6 @@
-# React Starter kit for anyone starting a project. ---No shit starter---.
+# React Starter kit for anyone starting a project
+
+---No shit starter---
 
 This repo is helpful if you want to start a react project without any extra unwanted npm packages.
 
